@@ -1,4 +1,3 @@
-# Project-Data-Engineering-
 Problem Statement:
 
 There is a large ecommerce company in India (let’s call it X) as a client.
