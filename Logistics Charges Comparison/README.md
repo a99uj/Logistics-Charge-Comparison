@@ -1,5 +1,3 @@
----Company X vs. Courier Company---
-
 Problem Statement:
 
 There is a large ecommerce company in India (let’s call it X) as a client.
